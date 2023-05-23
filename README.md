@@ -14,14 +14,15 @@
 
 ### 演示安装包
 
-Windows
+安卓：待补充
+
+Windows：待补充
 
 [Mac(Intel)](https://wwbk.lanzoum.com/iCqiM0x25m9c)
 
 
 [Mac(Apple Silicon)](https://wwbk.lanzoum.com/i1Unf0x25lbi)
 
-安卓
 
 ## 授权
 

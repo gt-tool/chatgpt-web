@@ -12,18 +12,16 @@
 
 密码：123456
 
-### 演示安装包：（待补充）
+### 演示安装包
 
-[//]: # (Windows)
+Windows
 
-[//]: # ()
-[//]: # (Mac&#40;Intel&#41;)
+[Mac(Intel)](https://wwbk.lanzoum.com/iCqiM0x25m9c)
 
-[//]: # ()
-[//]: # (Mac&#40;Apple Silicon&#41;)
 
-[//]: # ()
-[//]: # (安卓)
+[Mac(Apple Silicon)](https://wwbk.lanzoum.com/i1Unf0x25lbi)
+
+安卓
 
 ## 授权
 

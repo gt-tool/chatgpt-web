@@ -14,8 +14,6 @@
 
 ### 客户端
 
-安卓：待补充
-
 [Windows](https://wwbk.lanzoum.com/iYh5h0x2gdte)
 
 [Mac(Intel)](https://wwbk.lanzoum.com/iCqiM0x25m9c)

@@ -12,14 +12,6 @@
 
 密码：123456
 
-### 客户端
-
-[Windows](https://wwbk.lanzoum.com/iYh5h0x2gdte)
-
-[Mac(Intel)](https://wwbk.lanzoum.com/iCqiM0x25m9c)
-
-[Mac(Apple Silicon)](https://wwbk.lanzoum.com/i1Unf0x25lbi)
-
 ## 联系
 
 Q：52132621
@@ -34,9 +26,7 @@ chatgpt-web
 
 目前市面上**最强大，功能最完善**的ChatGPT商业版，支持GPT4.0、AI绘画，
 
-支持AI绘画、卡密兑换、KEY轮询、用户试用（可任意配置）、用户自推广等强大功能
-
-不仅仅支持网页版，手机、Windows电脑、苹果电脑客户端均已开发完成！！！让客户拥有更多选择
+支持AI绘画、语音输入文字、卡密兑换、KEY轮询、用户试用（可任意配置）、用户自推广等强大功能
 
 ## 功能
 
